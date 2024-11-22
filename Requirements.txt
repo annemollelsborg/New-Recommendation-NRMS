@@ -1,2 +1,3 @@
 # Run: pip install -r Requirements.txt
-Numpy
+numpy==1.26.4
+pandas==2.2.3
