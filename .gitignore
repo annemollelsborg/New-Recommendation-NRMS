@@ -1,6 +1,3 @@
-# Always ignore Data directories and their contents
-Data/
-
 # MacOS
 .DS_Store
 
