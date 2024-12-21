@@ -6,6 +6,7 @@ This project is based on the Ekstra Bladet RecSys 2024 challenge. This project a
 1	behaviors.parquet	Each file consists of seven days of impression logs.
 2	history.parquet	    Each file consists of users' click histories collected over 21 days period.
 3	articles.parquet	The information on news articles.
-4	artifacts.parquet	Article artifacts, such as article embeddings and image embeddings.
 
 Details of the attributes: https://recsys.eb.dk/dataset/
+
+Word embedding is done using the pre-trained embeddings from the Royal Danish Library. These are to be found through this link, and need to be downloaded locally: https://loar.kb.dk/items/33396585-6918-4cf0-8f76-723594766f37
